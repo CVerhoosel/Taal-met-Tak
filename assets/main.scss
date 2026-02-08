@@ -11,6 +11,20 @@
   display: none;
 }
 
+/* Horizontal rule */
+hr,
+.post-content hr {
+  border: none;
+  height: 5px;
+  background-color: #db7c1a;
+  margin: 2.5rem 0;
+}
+
+/* Rotation for table labels */
+.rot90 {
+  transform: rotate(-90deg);
+}
+
 .main-content h1,
 .main-content h2,
 .main-content h3,
@@ -143,5 +157,19 @@
 /* Bezittelijk (voornaamwoord) */
 .bez {
   text-decoration: underline;
+  color: rgb(204, 102, 0);
+}
+
+/* Voorzetsel */
+.vz {
+    color: rgb(0, 153, 76);
+}
+
+/* Uitdrukking */
+.uitdrukking {
+    font-style: italic;
+}
+
+.bw {
   color: rgb(204, 102, 0);
 }
