@@ -49,19 +49,26 @@
   font-weight: 700;
 }
 
+.kern {
+  font-weight: 700;
+}
+
 .bijvbep {
   color: rgb(102, 51, 204);
   text-decoration: underline;
+  text-decoration-style: dashed;
 }
 
 .obwb {
   color: rgb(0, 153, 76);
   text-decoration: underline;
+  text-decoration-style: dashed;
 }
 
 .bijst {
   color: rgb(204, 0, 102);
   text-decoration: underline;
+  text-decoration-style: dashed;
 }
 
 .zin {
@@ -71,4 +78,8 @@
 
 .hoofd {
   font-weight: 700;
+}
+
+.bijvbij {
+  color: rgb(102, 51, 204);
 }

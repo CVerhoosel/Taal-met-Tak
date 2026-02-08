@@ -142,6 +142,42 @@ Een <span class="zin">samengestelde zin</span> bestaat uit:
 - <span class="zin bij">Toen <span class="ow">mijn moeder</span> <span class="wg"><span class="pv">kwam</span> zoeken</span></span>, <span class="zin hoofd"><span class="wg"><span class="pv">verstopte</span></span> <span class="ow">Tak</span> zich</span>. → **Onderschikkend**
 - <span class="zin hoofd"><span class="ow">De konijnen</span> <span class="wg"><span class="pv">lopen</span></span> weg</span> als <span class="zin bij"><span class="ow">Tak</span> <span class="wg"><span class="pv">komt</span></span></span>. → **Onderschikkend**
 
+---
+
+# Zinsdeelzinnen
+Als een <span class="zin">samengestelde zin</span> bestaat uit een <span class="zin hoofd">hoofdzin</span> en een <span class="zin bij">bijzin</span>, dan noem je de <span class="zin bij">bijzin</span> een \| <span class="zin"> zinsdeelzin </span> \|. Het is namelijk een \| zinsdeel \| binnen de hoofdzin.
+
+De meest voorkomende \| <span class="zin"> zinsdeelzinnen </span> \| zijn:
+- <span class="ow zin"> onderwerpszin (ow-zin) </span>
+- <span class="lv zin"> lijdendvoorwerpszin (lv-zin) </span>
+- <span class="mv zin"> meewerkendvoorwerpszin (mv-zin) </span>
+- <span class="bwb zin"> bijwoordelijkebepalingszin (bwb-zin) </span>
+
+### Hoe bepaal ik het soort zinsdeelzin?
+Bepaal de hoofd- en bijzin(nen). Vervang (iedere) bijzin door een woord (of een paar woorden). Bepaal het \| zinsdeel \| van dit woord (of deze groep woorden). Dit bepaalt dan ook het soort \| <span class="zin"> zinsdeelzin </span> \|.
+
+### Voorbeelden van zinsdeelzinnen
+- <span class="zin hoofd">Het blijkt</span> dat <span class="zin bij ow zin">Tak stiekem op het dak klimt</span>.
+    - <span class="zin hoofd">Het blijkt</span> <span class="ow">dat</span>.  → <span class="ow">onderwerp</span>
+- <span class="zin hoofd">Stampertje weet</span> dat <span class="zin bij lv zin">Tak achter het hok schuilt</span>.
+    - <span class="zin hoofd">Stampertje weet</span> <span class="lv">het</span>. → <span class="lv">lijdend voorwerp</span>
+- <span class="zin hoofd">Mijn moeder vertelt</span> aan wie <span class="zin bij mv zin">Tak haar eitjes geeft</span>.
+    - <span class="zin hoofd">Mijn moeder vertelt</span> <span class="mv">aan Tak</span> → <span class="mv">meewerkend voorwerp</span>
+- <span class="zin hoofd">Tak kakelt</span> omdat <span class="zin bij bwb zin">Stampertje haar opjaagt</span>.
+    - <span class="zin hoofd">Tak kakelt</span> <span class="bwb">door dat gejaag</span>. → <span class="bwb">bijwoordelijke bepaling</span>
+
+---
+
+# Bijvoeglijke bijzin
+Als de **kern** van een \| zinsdeel \| een zelfstandig naamwoord of voornaamwoord is, dan wordt een zinnetje dat iets zegt over de **kern** een <span class="bijvbij zin"> bijvoeglijke bijzin (bijv.bijzin)</span> genoemd.
+
+### Hoe vind ik een bijvoeglijke bijzin?
+Een <span class="bijvbij zin"> bijvoeglijke bijzin</span> werkt precies zoals een <span class="bijvbep">bijvoeglijke bepaling</span>,  maar dan in de vorm van een zin, dus met een <span class="pv">persoonsvorm</span>. Die zin geeft extra informatie over een zelfstandig naamwoord of voornaamwoord.
+
+### Voorbeelden
+- \| De <span class="kern">kip</span> <span class="bij bijvbij zin">die altijd te laat is</span> \| rent \| naar het hok \|.
+- \| Tak \| pikt \| het <span class="kern">graan</span> <span class="bijvbij zin">dat Stampertje net liet vallen</span> \| op \|.
+- \| De <span class="kern">emmer</span> <span class="bijvbij zin">waarin Tak had gepoept</span> \| staat \| nog \| bij het hek \|.
 
 ---
 
