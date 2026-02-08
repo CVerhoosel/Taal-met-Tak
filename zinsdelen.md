@@ -178,7 +178,3 @@ Een <span class="bijvbij zin"> bijvoeglijke bijzin</span> werkt precies zoals ee
 - \| De <span class="kern">kip</span> <span class="bij bijvbij zin">die altijd te laat is</span> \| rent \| naar het hok \|.
 - \| Tak \| pikt \| het <span class="kern">graan</span> <span class="bijvbij zin">dat Stampertje net liet vallen</span> \| op \|.
 - \| De <span class="kern">emmer</span> <span class="bijvbij zin">waarin Tak had gepoept</span> \| staat \| nog \| bij het hek \|.
-
----
-
-[Terug naar hoofdpagina]({{ "/" | relative_url }})

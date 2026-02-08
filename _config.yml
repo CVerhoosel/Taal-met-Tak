@@ -1,2 +1,10 @@
 title: Taal met Tak
-theme: jekyll-theme-cayman
+theme: minima
+navigation:
+  - title: Zinsdelen
+    url: /zinsdelen
+  - title: Woordsoorten
+    url: /woordsoorten
+
+title: Taal met Tak
+theme: minima

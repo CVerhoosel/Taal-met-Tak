@@ -1,7 +1,15 @@
 ---
 ---
+@import "minima";
 
-@import "jekyll-theme-cayman";
+.site-header {
+   background-color: #db7c1a;
+   border-top: 5px solid #8B4513;
+}
+
+.site-nav .page-link[href="/"] {
+  display: none;
+}
 
 .main-content h1,
 .main-content h2,

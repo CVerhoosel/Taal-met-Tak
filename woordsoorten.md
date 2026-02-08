@@ -98,7 +98,3 @@ Een <span class="pers vnw">persoonlijk voornaamwoord (pers.vnw)</span> duidt een
 		</tr>
 	</tbody>
 </table>
-
----
-
-[Terug naar hoofdpagina]({{ "/" | relative_url }})

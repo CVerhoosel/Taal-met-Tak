@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-theme-cayman"
+gem "minima", "~> 2.5"
 
 # Needed for `jekyll serve` on recent macOS
 platforms :ruby do
