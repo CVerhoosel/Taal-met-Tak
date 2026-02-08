@@ -86,17 +86,37 @@
 
 /* Woordsoorten */
 
+/* Zelfstandig naamwoord */
 .zn {
   color: rgb(204, 0, 0);
-  font-weight: 700;
 }
 
+/* Lidwoord */
 .lw {
   color: rgb(0, 0, 204);
+}
+
+/* Bijvoeglijk naamwoord */
+.bn {
+  color: rgb(0, 204, 0);
+}
+
+/* Werkwoord */
+.ww {
   font-weight: 700;
 }
 
-.bn {
-  color: rgb(0, 204, 0);
-  font-weight: 700;
+/* Zelfstandig (werkwoord) */
+.z {
+  color: rgb(102, 51, 204);
+}
+
+/* Hulp(werkwoord) */
+.h {
+  color: rgb(0, 153, 76);
+}
+
+/* Koppel(werkwoord) */
+.k {
+  color: rgb(204, 0, 102);
 }
