@@ -120,3 +120,20 @@
 .k {
   color: rgb(204, 0, 102);
 }
+
+/* Voornaamwoord */
+.vnw {
+  text-decoration: underline;
+}  
+
+/* Persoonlijk (voornaamwoord) */
+.pers {
+  text-decoration: underline;
+  color: rgb(204, 0, 204);
+}  
+
+/* Bezittelijk (voornaamwoord) */
+.bez {
+  text-decoration: underline;
+  color: rgb(204, 102, 0);
+}
