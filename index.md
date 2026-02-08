@@ -10,7 +10,7 @@ title: Taal met Tak
 
 <img src="{{ '/assets/Tak.png' | relative_url }}" alt="Tak" style="width:50%; display:block; margin:auto;" />
 
-## Inhoud
+## Lessen
 
 - [Zinsdelen]({{ "/zinsdelen" | relative_url }}) - Leer over onderwerp, gezegde, lijdend voorwerp en meer
 - [Woordsoorten]({{ "/woordsoorten" | relative_url }}) - Ontdek wat zelfstandige naamwoorden, werkwoorden, bijvoeglijke naamwoorden en andere woordsoorten zijn

@@ -35,7 +35,7 @@ Probeer welke woorden je samen voor de <span class="pv">persoonsvorm</span> kan 
 Het <span class="ow">onderwerp</span> is degene of datgene waar de zin over gaat. Het doet iets of er wordt iets over gezegd.
 
 ### Hoe vind ik het onderwerp?
-Stel de vraag **Wie/wat + persoonsvorm?** Het antwoord is het <span class="ow">onderwerp</span>.
+Stel de vraag **Wie/wat +** <span class="pv">persoonsvorm</span>**?** Het antwoord is het <span class="ow">onderwerp</span>.
 
 ### Voobeelden
 - \| <span class="ow">Tak</span> \| <span class="pv">loopt</span> \| door de tuin \|.
@@ -62,7 +62,7 @@ Het <span class="wg">werkwoordelijk gezegde</span> bestaat uit de persoonsvorm p
 Het <span class="lv">lijdend voorwerp</span> geeft aan wie of wat iets overkomt.
 
 ### Hoe vind ik het lijdend voorwerp?
-Stel de vraag **Wie/wat +** <span class="wg">werkwoordelijk gezegde</span> + <span class="ow">onderwerp</span> **?** Het antwoord is het <span class="lv">lijdend voorwerp</span>.
+Stel de vraag **Wie/wat +** <span class="wg">werkwoordelijk gezegde</span> + <span class="ow">onderwerp</span>**?** Het antwoord is het <span class="lv">lijdend voorwerp</span>.
 
 ### Voorbeelden
 - \| <span class="ow">Stampertje</span> \| <span class="wg">pest</span> \| <span class="lv">Tak</span> \|.
@@ -90,7 +90,7 @@ Stel de vraag **Aan wie +** <span class="wg">werkwoordelijk gezegde</span> + <sp
 Een <span class="bwb">bijwoordelijke bepaling</span> geeft een *plaats*, *tijd* of *reden* aan.
 
 ### Hoe vind ik bijwoordelijke bepaling?
-Zoek het <span class="ow">onderwerp</span>, <span class="wg">werkwoordelijk gezegde</span>, <span class="lv">lijdend voorwerp</span> en <span class="mv">meewerkend voorwerp</span>. Zoek of er zinsdelen zijn die antwoord geven op vragen zoals **Waar?**, **Wanneer?** en **Hoe?**. Dit zijn (meestal) <span class="bwb">bijwoordelijke bepalingen</span>. De vraagwoorden zelf zijn ook <span class="bwb">bijwoordelijke bepalingen</span>.
+Zoek het <span class="ow">onderwerp</span>, <span class="wg">werkwoordelijk gezegde</span>, <span class="lv">lijdend voorwerp</span> en <span class="mv">meewerkend voorwerp</span>. Zoek of er zinsdelen zijn die antwoord geven op vragen zoals **Waar?**, **Wanneer?** en **Hoe?** Dit zijn (meestal) <span class="bwb">bijwoordelijke bepalingen</span>. De vraagwoorden zelf zijn ook <span class="bwb">bijwoordelijke bepalingen</span>.
 
 ### Voorbeelden
 - \| <span class="ow">Tak</span> \| <span class="wg">zoekt</span> \| <span class="lv">eieren</span> \| <span class="bwb">in het kippenhok</span> \|.
