@@ -7,7 +7,7 @@
    border-top: 5px solid #8B4513;
 }
 
-.site-nav .page-link[href="/"] {
+.site-nav .trigger .page-link:first-child {
   display: none;
 }
 
