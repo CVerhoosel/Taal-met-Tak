@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "minima";
 
 .site-header {
@@ -10,6 +11,21 @@
 .site-nav .trigger .page-link:first-child {
   display: none;
 }
+
+/* Tak-quote styling */
+.tak-quote {
+  margin: 1.5rem auto;
+  max-width: 720px;
+  text-align: center;
+  font-size: 1.3rem;
+  background: transparent;
+  padding: 0.25rem 0.5rem;
+  border-left: none;
+  border: none;
+  box-shadow: none;
+}
+.tak-quote p { margin: 0; font-size: 1.3rem; line-height: 1.35; }
+.tak-quote cite { display: block; margin-top: 0.5rem; font-style: normal; text-align: center; color: #666; font-weight: 700; font-size: 0.95rem; }
 
 /* Horizontal rule */
 hr,

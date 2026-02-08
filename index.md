@@ -3,7 +3,10 @@ layout: default
 title: Taal met Tak
 ---
 
-## Mijn naam is Tak. Ik kan alles, dus kan ik jou ook taal leren!
+<blockquote class="tak-quote">
+	<p>Mijn naam is Tak. Ik kan alles, dus kan ik jou ook taal leren!</p>
+	<cite>— Tak</cite>
+</blockquote>
 
 <img src="{{ '/assets/Tak.png' | relative_url }}" alt="Tak" style="width:50%; display:block; margin:auto;" />
 
