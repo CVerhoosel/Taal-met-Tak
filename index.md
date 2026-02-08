@@ -5,7 +5,7 @@ title: Taal met Tak
 
 ## Mijn naam is Tak. Ik kan alles, dus kan ik jou ook taal leren!
 
-![Tak]({{ "/assets/Tak.png" | relative_url }})
+<img src="{{ '/assets/Tak.png' | relative_url }}" alt="Tak" style="width:50%; display:block; margin:auto;" />
 
 ## Inhoud
 
