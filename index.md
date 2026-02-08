@@ -4,8 +4,8 @@ title: Taal met Tak
 ---
 
 <blockquote class="tak-quote">
-	<p>Mijn naam is Tak. Ik kan alles, dus kan ik jou ook taal leren!</p>
-	<cite>— Tak</cite>
+	<p>Ik ben Tak. Ik pik alles snel op... dus ook taal!</p>
+	<cite>— Tak de taaltutor</cite>
 </blockquote>
 
 <img src="{{ '/assets/Tak.png' | relative_url }}" alt="Tak" style="width:50%; display:block; margin:auto;" />
