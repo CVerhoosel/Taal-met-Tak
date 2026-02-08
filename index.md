@@ -3,7 +3,7 @@ layout: default
 title: Taal met Tak
 ---
 
-![Tak]({{ "/assets/tak.png" | relative_url }})
+![Tak]({{ "/assets/Tak.png" | relative_url }})
 
 **Ik ben Tak. Ik kan alles en ga jou taalles geven.**
 

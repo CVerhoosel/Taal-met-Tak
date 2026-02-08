@@ -12,6 +12,14 @@
   color: #000;
 }
 
+.page-header a.btn[href*="github.com"] {
+  display: none;
+}
+
+.site-footer .owner {
+  display: none;
+}
+
 .pv {
   color: #c00;
   font-weight: 700;
