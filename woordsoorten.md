@@ -36,7 +36,7 @@ Een <span class="bn">bijvoeglijk naamwoord (bn)</span> zegt iets over een <span 
 ---
 
 # Werkwoorden
-Een <span class="z ww">zelfstandig werkwoord (zww)</span> zegt wat iets of iemand doet. Het heeft een duidelijke betekenis. <span class="h ww">hulpwerkwoorden (hww)</span> komen voor in zinnen met meerdere werkwoorden. Ze helpen om een gezegde te maken. Het <span class="z ww">zelfstandig werkwoord</span> staat dan meestal achter in de zin.
+Een <span class="z ww">zelfstandig werkwoord (zww)</span> zegt wat iets of iemand doet. Het heeft een duidelijke betekenis. <span class="h ww">hulpwerkwoorden (hww)</span> komen voor in zinnen met meerdere werkwoorden. Ze helpen om een gezegde te maken. Het <span class="z ww">zelfstandig werkwoord</span> staat dan meestal achter in de zin. Een <span class="k ww">koppelwerkwoord (kww)</span> koppelt het onderwerp van de zin aan een eigenschap, een toestand of een naam. Het zegt niet wat iemand doet, maar wat iemand *is*, *wordt* of *lijkt*.
 
 ### Voorbeelden
 - Tak <span class="h ww">heeft</span> al drie keer naar het hok <span class="z ww">gerend</span>.
@@ -44,6 +44,11 @@ Een <span class="z ww">zelfstandig werkwoord (zww)</span> zegt wat iets of ieman
 - Stampertje <span class="h ww">wordt</span> steeds door Tak <span class="z ww">geplaagd</span>.
 - Het konijn <span class="h ww">zal</span> straks weer voer <span class="z ww">pakken</span>.
 - Tak <span class="h ww">is</span> net uit haar hok <span class="z ww">gekomen</span>.
+- Tak <span class="k ww">is</span> heel rustig nadat Stampertje <span class="z ww">wegloopt</span>.
+- Stampertje <span class="k ww">blijft</span> nieuwsgierig bij het hok <span class="z ww">staan</span>.
+- Het konijn <span class="k ww">lijkt</span> hongerig als ze Tak <span class="z ww">ruikt</span>.
+- Tak <span class="k ww">wordt</span> onrustig wanneer ze Stampertje <span class="z ww">ziet</span>.
+
 
 ---
 
@@ -107,6 +112,24 @@ Een <span class="pers vnw">persoonlijk voornaamwoord (pers.vnw)</span> duidt een
 	</tbody>
 </table>
 
+Een <span class="aanw vnw">aanwijzend voornaamwoord (aanw.vnw)</span> wijst een mens, dier of ding aan. Een <span class="vr vnw">vragend voornaamwoord (vr.vnw)</span> staat aan het begin van een vraag, maar woorden als <span class="bw">waar</span>, <span class="bw">wanneer</span> en <span class="bw">hoe</span> zijn <span class="bw">bijwoorden</span>. Een <span class="onbep vnw">onbepaald voornaamwoord (onbeb.vnw)</span> duidt een persoon of zaak aan, maar zegt niet precies wie of wat wordt bedoeld.
+
+<table>
+	<tr>
+		<td><span class="aanw vnw">aanwijzende voornaamwoorden</span></td>
+		<td>deze, die, dit, dat, zulk(e), zo'n, dergelijk(e), zelf, zelfde, hetzelfde</td>
+	</tr>
+	<tr>
+		<td><span class="vr vnw">vragende voornaamwoorden</span></td>
+		<td>wie, wat, welk(e), wat voor (een)</td>
+	</tr>
+		<tr>
+		<td><span class="onbep vnw">onbepaalde voornaamwoorden</span></td>
+		<td>niets, (zo)iets, alles, het, wat, iemand, niemand, iedereen, men, ene, (een) zekere, ander(e), ieder(e), elk(e), menig(e), menigeen</td>
+	</tr>
+</table>
+
+
 ---
 
 # Voorzetsel
@@ -140,3 +163,46 @@ Als een <span class="bwb">bijwoordelijke bepaling</span> uit één woord bestaat
 - Stampertje weet het <span class="bw">waarschijnlijk</span> wel.
 - Tak komt <span class="bw">niet</span>.
 - De kippen eten <span class="bw">nooit</span> rustig.
+
+---
+
+# Telwoord
+Een **bepaald hoofdtelwoord (bep.hoofdtelw)** noemt een precies aantal of een precieze hoeveelheid. Een **onbepaald hoofdtelwoord (onbep.hoofdtelw)** noemt een onduidelijk aantal of een onduidelijke hoeveelheid. Een **bepaald rangtelwoord (bep.rangtelw)** noemt een duidelijke plaats in een rij. Een **onbepaald rangtelwoord (onbep.rangtelw)** noemt een onduidelijke plaats in een rij.
+
+<table>
+	<tr>
+		<th></th>
+		<th>bepaald</th>
+		<th>onbepaald</th>
+	</tr>
+	<tr>
+		<th>hoofdtelwoord</th>
+		<td>drie, 33, 2021, tweeënveertig</td>
+		<td>veel/vele, enkele, sommige, weinig(e), verscheidene, alle, wat</td>
+	</tr>	
+		<tr>
+		<th>rangtelwoord</th>
+		<td>eerste, vierde</td>
+		<td>laatste, middelste, zoveelste, hoeveelste</td>
+	</tr>	
+</table>
+
+---
+
+# Voegwoord
+Een <span class="ns vgw">nevenschikkend voegwoord (ns.vgw)</span> verbindt gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (ns.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
+
+### Voorbeelden
+- <span class="ns vgw">dus</span>
+- <span class="ns vgw">en</span>
+- <span class="ns vgw">maar</span>
+- <span class="ns vgw">want</span>
+- <span class="os vgw">als</span>
+- <span class="os vgw">dan</span>
+- <span class="os vgw">dat</span>
+- <span class="os vgw">doordat</span>
+- <span class="os vgw">hoewel</span>
+- <span class="os vgw">mits</span>
+- <span class="os vgw">of</span>
+- <span class="os vgw">omdat</span>
+- <span class="os vgw">zodra</span>

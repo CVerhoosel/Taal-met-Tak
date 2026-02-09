@@ -166,14 +166,27 @@ hr,
 
 /* Persoonlijk (voornaamwoord) */
 .pers {
-  text-decoration: underline;
   color: rgb(204, 0, 204);
 }  
 
 /* Bezittelijk (voornaamwoord) */
 .bez {
-  text-decoration: underline;
   color: rgb(204, 102, 0);
+}
+
+/* Aanwijzend (voornaamwoord) */
+.aanw {
+  color: rgb(204, 0, 102);
+}
+
+/* Vragend (voornaamwoord) */
+.vr {
+  color: rgb(102, 204, 0);
+}
+
+/* Onbepaald (voornaamwoord) */
+.onbep {
+  color: rgb(102, 0, 204);
 }
 
 /* Voorzetsel */
@@ -188,4 +201,20 @@ hr,
 
 .bw {
   color: rgb(204, 102, 0);
+}
+
+/* Voegwoord */
+.vgw {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+/* Nevenschikkend (voegwoord) */
+.ns {
+  color: rgb(102, 204, 0);
+}
+
+/* Onderschikkend (voegwoord) */
+.os {
+  color: rgb(204, 0, 102);
 }
