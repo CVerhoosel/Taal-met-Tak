@@ -103,6 +103,20 @@ Zoek het <span class="ow">onderwerp</span>, <span class="wg">werkwoordelijk geze
 
 ---
 
+# Naamwoordelijk gezegde (ng)
+Het <span class="ng">naamwoordelijk gezegde</span> zegt welke *eigenschap*, *toestand* of *identiteit* bij het onderwerp hoort.
+
+### Hoe vind ik het naamwoordelijk gezegde?
+Het <span class="ng">naamwoordelijk gezegde</span> bestaat uit een <span class="k ww">koppelwerkwoord</span>
+ plus het naamwoordelijk deel.
+ 
+### Voorbeelden
+- \| Tak \| <span class="k ww">is</span> \| <span class="ng">boos</span> \|.
+- \| De kip \| <span class="k ww">blijkt</span> \| <span class="ng">erg nieuwsgierig</span> \|.
+- \| Tak \| <span class="k ww">wordt</span> \| <span class="ng">onrustig</span> \|.
+
+---
+
 # Zinsdeelstukken
 De **kern** is het belangrijkste woord van een \| zinsdeel \|. Zinsdeelstukken geven extra informatie over die **kern**. 
 
