@@ -133,16 +133,16 @@ Een <span class="aanw vnw">aanwijzend voornaamwoord (aanw.vnw)</span> wijst een 
 ---
 
 # Voorzetsel
-Een <span class="vz">voorzetsel (vz)</span> staat vaak, maar niet altijd, aan het begin van een \| zinsdeel \| dat een *plaats*, *tijd* of *reden* aangeeft. Een <span class="vz uitdrukking">voorzetsel uitdrukking</span> is een vaste combinatie van voorzetsels en een zelfstandig naamwoord.
+Een <span class="vz">voorzetsel (vz)</span> is een woord dat vertelt waar iets is (plaats), wanneer iets gebeurt (tijd), of waarom iets zo is (reden). Het staat vaak aan het begin van een \| zinsdeel \|. Een <span class="vz uitdrukking">voorzetsel uitdrukking</span> is een vaste combinatie van <span class="vz">voorzetsels</span> en een <span class="zn">zelfstandig naamwoord</span>.
 
 ### Voorbeelden
-- Tak schuilt <span class="vz">onder</span> het hok.
-- Het konijn hupt <span class="vz">door</span> de tuin.
-- Stampertje rent <span class="vz">naar</span> de voerbak.
-- De kippen kakelen <span class="vz">bij</span> het hek.
-- Tak komt <span class="vz uitdrukking">in plaats van</span> Stampertje naar buiten.
-- De kip is boos <span class="vz uidrukking">met betrekking tot</span> het irritante konijn.
-- Het lawaai ontstond <span class="vz uitdrukking">op basis van</span> een misverstand met de konijen.
+- \| Tak \| schuilt \| <span class="vz">onder</span> het hok \|.
+- \| Het konijn \| hupt \| <span class="vz">door</span> de tuin \|.
+- \| Stampertje \| rent \| <span class="vz">naar</span> de voerbak \|.
+- \| De kippen \| kakelen \| <span class="vz">bij</span> het hek \|.
+- \| Tak \| komt \| <span class="vz uitdrukking">in plaats van</span> Stampertje \| <span class="vz uitdrukking">naar</span> buiten \|.
+- \| De kip \| is \| boos \| <span class="vz uidrukking">met betrekking tot</span> het irritante konijn \|.
+- \| Het lawaai \| ontstond \| <span class="vz uitdrukking">op basis van</span> een misverstand \| <span class="vz uitdrukking">met</span> de konijen \|.
 
 ---
 
@@ -150,19 +150,18 @@ Een <span class="vz">voorzetsel (vz)</span> staat vaak, maar niet altijd, aan he
 Als een <span class="bwb">bijwoordelijke bepaling</span> uit één woord bestaat dan is dit een  <span class="bw">bijwoord</span>. Het geeft een *tijd*, *plaats* of *reden* aan. Het kan ook een *vraag*, *twijfel*, of *ontkenning* aangeven.
 
 ### Voorbeelden
-- Tak kakelt <span class="bw">vandaag</span>.
-- Het konijn komt <span class="bw">straks</span> naar buiten.
-- De kippen eten <span class="bw">altijd</span> te vroeg.
-- Tak kijkt <span class="bw">overal</span>.
-- Stampertje schuilt <span class="bw">binnen</span>.
-- Het konijn sluipt <span class="bw">hier</span> rond.
-- Tak schreeuwt <span class="bw">daarom</span>.
-- De kip blijft binnen en is <span class="bw">dus</span> niet te zien.
-- <span class="bw">Waarom</span> loopt Tak zo snel?
-- Tak twijfelt <span class="bw">misschien</span>.
-- Stampertje weet het <span class="bw">waarschijnlijk</span> wel.
-- Tak komt <span class="bw">niet</span>.
-- De kippen eten <span class="bw">nooit</span> rustig.
+- \| Tak \| kakelt \| <span class="bw">vandaag</span> \|.
+- \| Het konijn \| komt \| <span class="bw">straks</span> \| naar buiten \|.
+- \| De kippen \| eten \| <span class="bw">altijd</span> \| te vroeg \|.
+- \| Tak \| poept \| <span class="bw">overal</span> \|.
+- \| Stampertje \| schuilt \| <span class="bw">binnen</span> \|.
+- \| Het konijn \| sluipt \| <span class="bw">hier</span> \| rond \|.
+- \| Tak schreeuwt \| <span class="bw">daarom</span> \|.
+- \| <span class="bw">Waarom</span> \| loopt \| Tak \| zo snel \|?
+- \| Tak \| twijfelt \| <span class="bw">misschien</span> \|.
+- \| Stampertje \| weet \| het \| <span class="bw">waarschijnlijk</span> \| wel \|.
+- \| Tak \| komt \| <span class="bw">niet</span> \|.
+- \| De kippen \| eten \| <span class="bw">nooit</span> \| rustig \|.
 
 ---
 
@@ -190,7 +189,7 @@ Een **bepaald hoofdtelwoord (bep.hoofdtelw)** noemt een precies aantal of een pr
 ---
 
 # Voegwoord
-Een <span class="ns vgw">nevenschikkend voegwoord (ns.vgw)</span> verbindt gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (ns.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
+De <span class="ns vgw">nevenschikkend voegwoorden (ns.vgw)</span> <span class="ns vgw">dus</span>, <span class="ns vgw">en</span>, <span class="ns vgw">maar</span> en <span class="ns vgw">want</span> verbinden gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (ns.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
 
 ### Voorbeelden
 - <span class="ns vgw">dus</span>

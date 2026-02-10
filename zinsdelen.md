@@ -148,7 +148,7 @@ Een <span class="zin">samengestelde zin</span> bestaat uit:
 - Eén of meer <span class="zin hoofd">hoofdzinnen</span> en één of meer <span class="zin bij">bijzinnen</span>
 
 ### Hoe vind je een hoofdzin of bijzin?
-- In een <span class="zin hoofd">hoofdzin</span> staan <span class="ow">onderwerp</span> en <span class="pv">persoonsvorm</span> bij elkaar en meestal vooraan in de zin. In een <span class="zin bij">bijzin</span> is dit niet zo.
+- In een <span class="zin hoofd">hoofdzin</span> staan <span class="ow">onderwerp</span> en <span class="pv">persoonsvorm</span> bij elkaar en je kunt er niks tussen zetten. Ze staan meestal ook vooraan in de zin. In een <span class="zin bij">bijzin</span> is dit niet zo.
 - Twee <span class="zin hoofd">hoofdzinnen</span> of twee <span class="zin bij">bijzinnen</span> zijn meestal **nevenschikkend** verbonden. Een <span class="zin hoofd">hoofdzin</span> en een <span class="zin bij">bijzin</span> zijn doorgaans **onderschikkend** verbonden.
 
 ### Voorbeelden
