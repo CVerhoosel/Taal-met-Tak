@@ -53,6 +53,8 @@ Een <span class="z ww">zelfstandig werkwoord (zww)</span> zegt wat iets of ieman
 ---
 
 # Voornaamwoorden
+
+## Persoonlijk voornaamwoord
 Een <span class="pers vnw">persoonlijk voornaamwoord (pers.vnw)</span> duidt een persoon of ding aan. Een <span class="bez vnw">bezittelijk voornaamwoord (bez.vnw)</span> geeft aan van wie iets is.
 
 <table>
@@ -112,7 +114,8 @@ Een <span class="pers vnw">persoonlijk voornaamwoord (pers.vnw)</span> duidt een
 	</tbody>
 </table>
 
-Een <span class="aanw vnw">aanwijzend voornaamwoord (aanw.vnw)</span> wijst een mens, dier of ding aan. Een <span class="vr vnw">vragend voornaamwoord (vr.vnw)</span> staat aan het begin van een vraag, maar woorden als <span class="bw">waar</span>, <span class="bw">wanneer</span> en <span class="bw">hoe</span> zijn <span class="bw">bijwoorden</span>. Een <span class="onbep vnw">onbepaald voornaamwoord (onbeb.vnw)</span> duidt een persoon of zaak aan, maar zegt niet precies wie of wat wordt bedoeld.
+## Aanwijzend, vragend en onbepaald voornaamwoord
+Een <span class="aanw vnw">aanwijzend voornaamwoord (aanw.vnw)</span> wijst een mens, dier of ding aan. Een <span class="vr vnw">vragend voornaamwoord (vr.vnw)</span> staat aan het begin van een vraag, maar woorden als <span class="bw">waar</span>, <span class="bw">wanneer</span> en <span class="bw">hoe</span> zijn <span class="bw">bijwoorden</span>. Een <span class="onbep vnw">onbepaald voornaamwoord (onbep.vnw)</span> duidt een persoon of zaak aan, maar zegt niet precies wie of wat wordt bedoeld.
 
 <table>
 	<tr>
@@ -129,6 +132,40 @@ Een <span class="aanw vnw">aanwijzend voornaamwoord (aanw.vnw)</span> wijst een 
 	</tr>
 </table>
 
+## Betrekkelijk voornaamwoord
+Een <span class="bijvbij zin"> bijvoeglijke bijzin</span> begint vaak met een <span class="betr vnw">betrekkelijk voornaamwoord (betr.vnw)</span>. Het <span class="betr vnw">betrekkelijk voornaamwoord</span> verwijst dan terug naar de **kern**. Deze **kern** noem je dan het **antecedent**.
+
+<table>
+	<tr>
+		<td> <span class="betr vnw">die</span> </td>
+		<td> Verwijst naar <span class="lw">de</span>-woorden. Als je het kunt vervangen door <em>deze</em> is het een <span class="aanw vnw">aanwijzend voornaamwoord</span>. </td>
+	</tr>
+	<tr>
+		<td> <span class="betr vnw">dat</span> </td>
+		<td> Verwijst naar <span class="lw">het</span>-woorden. Als je het kunt vervangen door <em>dit</em> is het een <span class="aanw vnw">aanwijzend voornaamwoord</span>. </td>
+	</tr>
+	<tr>
+		<td rowspan="2"> <span class="betr vnw">wie</span> </td>
+		<td> Verwijst naar een persoon. </td>
+	</tr>		
+	<tr>
+		<td> Kun <span class="betr vnw">wie</span> vervangen door <span class="betr vnw">degene die</span> dan is het een <span class="betr vnw">betrekkelijk voornaamwoord met ingesloten antecedent (betr.vnw m.i.a.)</span>. </td>
+	</tr>			
+	<tr>
+		<td rowspan="4"> <span class="betr vnw">wat</span> </td>
+		<td> Verwijst naar een overtreffende trap zonder <span class="zn">zelfstandig naamwoord</span>. </td>
+	</tr>	
+	<tr>
+		<td> Verwijst naar woorden als <em>iets</em>, <em>niets</em>, <em>alles</em>, <em>veel</em>, <em>weinig</em> en <em>datgene</em>.</td>
+	</tr>	
+	<tr>
+		<td> Verwijst naar een hele zin of een deel van een zin.</td>
+	</tr>		
+	<tr>
+		<td>Kun <span class="betr vnw">wat</span> vervangen door <span class="betr vnw">datgene wat</span> dan is het een <span class="betr vnw">betrekkelijk voornaamwoord met ingesloten antecedent (betr.vnw m.i.a.)</span>.</td>
+	</tr>
+</table>
+
 
 ---
 
@@ -141,13 +178,13 @@ Een <span class="vz">voorzetsel (vz)</span> is een woord dat vertelt waar iets i
 - \| Stampertje \| rent \| <span class="vz">naar</span> de voerbak \|.
 - \| De kippen \| kakelen \| <span class="vz">bij</span> het hek \|.
 - \| Tak \| komt \| <span class="vz uitdrukking">in plaats van</span> Stampertje \| <span class="vz uitdrukking">naar</span> buiten \|.
-- \| De kip \| is \| boos \| <span class="vz uidrukking">met betrekking tot</span> het irritante konijn \|.
-- \| Het lawaai \| ontstond \| <span class="vz uitdrukking">op basis van</span> een misverstand \| <span class="vz uitdrukking">met</span> de konijen \|.
+- \| De kip \| is \| boos \| <span class="vz uitdrukking">met betrekking tot</span> het irritante konijn \|.
+- \| Het lawaai \| ontstond \| <span class="vz uitdrukking">op basis van</span> een misverstand \| <span class="vz uitdrukking">met</span> de konijnen \|.
 
 ---
 
 # Bijwoord
-Als een <span class="bwb">bijwoordelijke bepaling</span> uit één woord bestaat dan is dit een  <span class="bw">bijwoord</span>. Het geeft een *tijd*, *plaats* of *reden* aan. Het kan ook een *vraag*, *twijfel*, of *ontkenning* aangeven.
+Als een <span class="bwb">bijwoordelijke bepaling</span> uit één woord bestaat dan is dit een  <span class="bw">bijwoord</span>. Het geeft een *tijd*, *plaats* of *reden* aan. Het kan ook een *vraag*, *twijfel*, of *ontkenning* aangeven. Een <span class="bw">bijwoord</span> kan een <span class="bn">bijvoeglijk naamwoord</span> versterken.
 
 ### Voorbeelden
 - \| Tak \| kakelt \| <span class="bw">vandaag</span> \|.
@@ -189,19 +226,20 @@ Een **bepaald hoofdtelwoord (bep.hoofdtelw)** noemt een precies aantal of een pr
 ---
 
 # Voegwoord
-De <span class="ns vgw">nevenschikkend voegwoorden (ns.vgw)</span> <span class="ns vgw">dus</span>, <span class="ns vgw">en</span>, <span class="ns vgw">maar</span> en <span class="ns vgw">want</span> verbinden gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (ns.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
+De <span class="ns vgw">nevenschikkend voegwoorden (ns.vgw)</span> <span class="ns vgw">dus</span>, <span class="ns vgw">en</span>, <span class="ns vgw">maar</span> en <span class="ns vgw">want</span> verbinden gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (os.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
 
 ### Voorbeelden
-- <span class="ns vgw">dus</span>
-- <span class="ns vgw">en</span>
-- <span class="ns vgw">maar</span>
-- <span class="ns vgw">want</span>
-- <span class="os vgw">als</span>
-- <span class="os vgw">dan</span>
-- <span class="os vgw">dat</span>
-- <span class="os vgw">doordat</span>
-- <span class="os vgw">hoewel</span>
-- <span class="os vgw">mits</span>
-- <span class="os vgw">of</span>
-- <span class="os vgw">omdat</span>
-- <span class="os vgw">zodra</span>
+- De kip <span class="ns vgw">en</span> het konijn hebben ruzie.
+- Het is geen kip, <span class="ns vgw">maar</span> een velociraptor.
+- Tak heeft slechte zin, <span class="ns vgw">dus</span> blijft Stampertje uit haar buurt.
+- Stampertje blijft weg, <span class="ns vgw">want</span> Tak is humeurig.
+- Tak hoopt dat ze eten krijgt <span class="ns vgw">en</span> dat Stampertje het niet opeet.
+- Tak wordt zenuwachtig <span class="os vgw">als</span> Stampertje te hard komt aanhuppen.
+- Het konijn rent harder <span class="os vgw">dan</span> de kip vandaag.
+- Tak denkt <span class="os vgw">dat</span> Stampertje haar eten wil pikken.
+- De kippen zijn onrustig <span class="os vgw">doordat</span> het konijn tegen het hek tikt.
+- <span class="os vgw">Hoewel</span> Stampertje klein is maakt hij veel indruk op Tak.
+- Tak blijft rustig, <span class="os vgw">mits</span> Stampertje niet te dichtbij komt.
+- De kip twijfelt <span class="os vgw">of</span> het konijn haar echt pest.
+- Stampertje verstopt zich, <span class="os vgw">omdat</span> Tak zo luid kakelt.
+- Tak rent naar buiten <span class="os vgw">zodra</span> de voerbak open gaat.
