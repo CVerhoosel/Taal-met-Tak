@@ -226,7 +226,7 @@ Een **bepaald hoofdtelwoord (bep.hoofdtelw)** noemt een precies aantal of een pr
 ---
 
 # Voegwoord
-De <span class="ns vgw">nevenschikkend voegwoorden (ns.vgw)</span> <span class="ns vgw">dus</span>, <span class="ns vgw">en</span>, <span class="ns vgw">maar</span> en <span class="ns vgw">want</span> verbinden gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (os.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
+De <span class="ns vgw">nevenschikkend voegwoorden (ns.vgw)</span> <span class="ns vgw">dus</span>, <span class="ns vgw">en</span>, <span class="ns vgw">maar</span>, <span class="ns vgw">of</span> en <span class="ns vgw">want</span> verbinden gelijkwaardige delen: twee woorden, twee woordgroepen, twee hoofdzinnen, of twee bijzinnen. Een <span class="os vgw">onderschikkend voegwoord (os.vgw)</span> verbindt meestal een bijzin met een hoofdzin.
 
 ### Voorbeelden
 - De kip <span class="ns vgw">en</span> het konijn hebben ruzie.
