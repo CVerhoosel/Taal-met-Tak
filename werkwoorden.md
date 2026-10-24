@@ -21,7 +21,7 @@ Is het <span class="ow">onderwerp</span> enkelvoud, dan gebruik je de <span clas
   - Bij <span class="ow">ik</span> ervoor of <span class="ow">jij</span> of <span class="ow">je</span> erachter gebruik je de <span class="ikvorm">ik-vorm</span>.
   - Anders krijgt de <span class="ikvorm">ik-vorm</span> een **t**. Dit wordt de dt-regel genoemd.
 
-**Tip:** Vervang het werkwoord door een werkwoord dat niet op een **d** eindigt. Hoor of er een **t** achter de **d** van de <span class="ikvorm">ik-vorm</span> moet.
+**Check:** Vervang het werkwoord door een werkwoord dat niet op een **d** eindigt. Hoor of er een **t** achter de **d** van de <span class="ikvorm">ik-vorm</span> moet.
 
 ### Voorbeelden
 
@@ -78,3 +78,37 @@ Schrijf wat je hoort.
 - <span class="ow">De kippen</span> <span class="ww">sloegen</span> het konijn.
 - <span class="ow">De kippen</span> <span class="ww">bewogen</span> bijna niet.
 - <span class="ow">De kippen</span> <span class="ww">schrokken</span> van Stampertje.
+
+---
+
+# Voltooid Tegenwoordige Tijd (VTT)
+
+Het <span class="ww">voltooid deelwoord</span> is afgerond. Er staat altijd een vorm van <span class="h ww">hebben</span>, <span class="h ww">zijn</span> of <span class="h ww">worden</span> in de zin.
+
+### Zwakke (klankvaste) werkwoorden
+Voor zwakke werkwoorden geldt de "kofschip/exkofschaap"-regel. Kijk naar de laatste letter van de <span class="wijvorm">wij-vorm</span> zonder *-en*:
+- Staat die letter in "kofschip"? Dan eindigt het voltooid deelwoord op een **t**.
+- Staat die letter *niet* in "kofschip"? Dan eindigt het voltooid deelwoord op een **d**.
+
+**Check:** Luister naar de verleden tijd om te horen of het een **d** of een **t** moet zijn.
+
+### Voorbeelden
+
+- <span class="ow">De kip</span> <span class="h ww">heeft</span> het konijn <span class="ww">gepik</span>**t**.
+- <span class="ow">Ik</span> <span class="h ww">heb</span> de kippen <span class="ww">gevoer</span>**d**.
+- <span class="ow">Mama</span> <span class="h ww">heeft</span> de kip <span class="ww">gebraad</span>.
+- <span class="ow">Beta</span> <span class="h ww">heeft</span> Stampertje <span class="ww">gehaat</span>.
+- <span class="ow">De kippen</span> <span class="h ww">hebben</span> de konijnen <span class="ww">gepik</span>**t**.
+- <span class="ow">Stampertje</span> <span class="h ww">is</span> <span class="ww">gehaat</span> door de kippen.
+- <span class="ow">Wij</span> <span class="h ww">hebben</span> de kippen <span class="ww">gevoer</span>**d**.
+
+### Sterke (klankveranderende) werkwoorden
+Het voltooid deelwoord eindigt op **en**. Schrijf wat je hoort.
+
+### Voorbeelden
+
+- <span class="ow">Ik</span> <span class="h ww">heb</span> de kippen <span class="ww">gevang</span>**en**.
+- <span class="ow">De kippen</span> <span class="h ww">zijn</span> op de bank <span class="ww">gesprong</span>**en**.
+- <span class="ow">De kippen</span> <span class="h ww">worden</span> door het konijn <span class="ww">geslag</span>**en**.
+- <span class="ow">De kippen</span> <span class="h ww">zijn</span> bijna niet <span class="ww">bewog</span>**en**.
+- <span class="ow">De kippen</span> <span class="h ww">zijn</span> <span class="ww">geschrokk</span>**en** van Stampertje.
