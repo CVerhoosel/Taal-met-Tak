@@ -7,8 +7,8 @@ title: Werkwoorden
 
 | | Tegenwoordig | Verleden |
 | --- | --- | --- |
-| **Onvoltooid** | **Onvoltooid Tegenwoordige Tijd (OTT)** <br> Iets gebeurt nu of regelmatig. | **Onvoltooid Verleden Tijd (OVT)**<br> Iets gebeurde vroeger. |
-| **Voltooid**  | **Voltooid Tegenwoordige Tijd (VTT)**<br> Iets is nu al gebeurd.   | **Voltooid Verleden Tijd (VVT)**<br> Iets gebeurde vroeger.  |
+| **Onvoltooid** | **Onvoltooid Tegenwoordige Tijd ([OTT](#onvoltooid-tegenwoordige-tijd-ott))** <br> Iets gebeurt nu of regelmatig. | **Onvoltooid Verleden Tijd ([OVT](#onvoltooid-verleden-tijd-ovt))**<br> Iets gebeurde vroeger. |
+| **Voltooid**  | **Voltooid Tegenwoordige Tijd ([VTT](#voltooid-tegenwoordige-tijd-vtt))**<br> Iets is nu al gebeurd.   | **Voltooid Verleden Tijd ([VVT](#voltooid-verleden-tijd-vvt))**<br> Iets gebeurde vroeger.  |
 
 ---
 
