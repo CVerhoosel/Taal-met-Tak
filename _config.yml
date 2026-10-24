@@ -7,6 +7,8 @@ navigation:
     url: /woordsoorten
   - title: Werkwoorden
     url: /werkwoorden
+  - title: Spelling
+    url: /spelling
 
 title: Taal met Tak
 theme: minima
