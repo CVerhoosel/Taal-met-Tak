@@ -125,6 +125,7 @@ Ook hier is het <span class="ww">voltooid deelwoord</span> afgerond. Het <span c
 - <span class="ow">Stampertje</span> <span class="h ww">was</span> <span class="ww">gehaat</span> door de kippen.
 - <span class="ow">Mama</span> <span class="h ww">had</span> de kip <span class="ww">gebraad</span>.
 - <span class="ow">Wij</span> <span class="h ww">hadden</span> de kippen <span class="ww">gevoer</span>**d**.
+- <span class="ow">Beta en Boomer</span> <span class="h ww">hadden</span> Stampertje <span class="ww">gehaat</span>.
 
 ---
 
