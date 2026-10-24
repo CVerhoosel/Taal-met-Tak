@@ -55,7 +55,7 @@ Is het <span class="ow">onderwerp</span> meervoud, dan gebruik je de <span class
 
 **Tips:**
 1. Luister naar het meervoud om te horen of het **te** of **de** is.
-2. Check het "kofschip" of het **te** of **de** is. Zie VTT.
+2. Check het "kofschip" of het **te** of **de** is. Zie [VTT](#voltooid-tegenwoordige-tijd-vtt).
 
 ### Voorbeelden
 
@@ -125,3 +125,29 @@ Ook hier is het <span class="ww">voltooid deelwoord</span> afgerond. Het <span c
 - <span class="ow">Stampertje</span> <span class="h ww">was</span> <span class="ww">gehaat</span> door de kippen.
 - <span class="ow">Mama</span> <span class="h ww">had</span> de kip <span class="ww">gebraad</span>.
 - <span class="ow">Wij</span> <span class="h ww">hadden</span> de kippen <span class="ww">gevoer</span>**d**.
+
+---
+
+# Deelwoorden
+
+Een <span class="ww">deelwoord</span> is een vorm van een werkwoord. Er zijn twee soorten: het voltooid deelwoord en het onvoltooid deelwoord.
+
+### Voltooid deelwoord
+Het <span class="ww">voltooid deelwoord</span> laat zien dat iets afgerond is. Zie [VTT](#voltooid-tegenwoordige-tijd-vtt).
+
+### Onvoltooid deelwoord
+Het <span class="ww">onvoltooid deelwoord</span> laat zien dat iets aan de gang is. Je maakt het met de <span class="wijvorm">wij-vorm</span> + **d**.
+
+### Voorbeelden
+
+- De kip zat <span class="ww">kakelend</span> achter Stampertje aan.
+- Tak en Toe gingen <span class="ww">rennend</span> naar hun nest.
+
+### Deelwoord als bijvoeglijk naamwoord
+Een deelwoord kun je ook als <span class="bijvbep">bijvoeglijk naamwoord</span> gebruiken.
+
+| | Lange vorm<br> | Korte vorm |
+| --- | --- | --- |
+| | Deelwoord met een **e**. | Deelwoord zonder **e**. |
+| **Voltooid deelwoord** | De <span class="ww">gepikt</span>**e** kip.<br>De <span class="ww">gevoerd</span>**e** kip.<br>De <span class="ww">gebrad</span>**e** kip.<br>Het <span class="ww">gehat</span>**e** konijn. | Een <span class="ww">gevoerd</span> konijn.<br>Een <span class="ww">gepikt</span> konijn.<br>Een <span class="ww">gehaat</span> konijn.<br>Een <span class="ww">gebraad</span> konijn. |
+| **Onvoltooid deelwoord** | De <span class="ww">kakelend</span>**e** kip.<br>De <span class="ww">rennend</span>**e** kippen. | Een <span class="ww">hatend</span> konijn.<br>Een <span class="ww">rennend</span> konijn. |
