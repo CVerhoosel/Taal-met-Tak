@@ -14,3 +14,4 @@ title: Taal met Tak
 
 - [Zinsdelen]({{ "/zinsdelen" | relative_url }}) - Leer over onderwerp, gezegde, lijdend voorwerp en meer
 - [Woordsoorten]({{ "/woordsoorten" | relative_url }}) - Ontdek wat zelfstandige naamwoorden, werkwoorden, bijvoeglijke naamwoorden en andere woordsoorten zijn
+- [Werkwoorden]({{ "/werkwoorden" | relative_url }}) - Leer over werkwoordstijden, vervoegingen en de spelling van werkwoorden

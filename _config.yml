@@ -5,6 +5,8 @@ navigation:
     url: /zinsdelen
   - title: Woordsoorten
     url: /woordsoorten
+  - title: Werkwoorden
+    url: /werkwoorden
 
 title: Taal met Tak
 theme: minima
