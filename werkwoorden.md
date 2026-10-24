@@ -55,7 +55,7 @@ Is het <span class="ow">onderwerp</span> meervoud, dan gebruik je de <span class
 
 **Tips:**
 1. Luister naar het meervoud om te horen of het **te** of **de** is.
-2. Check het "kofschip" of het **te** of **de** is. Zie voltooid deelwoord.
+2. Check het "kofschip" of het **te** of **de** is. Zie VTT.
 
 ### Voorbeelden
 
@@ -83,7 +83,7 @@ Schrijf wat je hoort.
 
 # Voltooid Tegenwoordige Tijd (VTT)
 
-Het <span class="ww">voltooid deelwoord</span> is afgerond. Er staat altijd een vorm van <span class="h ww">hebben</span>, <span class="h ww">zijn</span> of <span class="h ww">worden</span> in de zin.
+Het <span class="ww">voltooid deelwoord</span> laat zien dat iets afgerond is. Het voltooid deelwoord staat nooit alleen. Er staat altijd een vorm van <span class="h ww">hebben</span>, <span class="h ww">zijn</span> of <span class="h ww">worden</span> bij in de zin als <span class="h ww">hulpwerkwoord</span>.
 
 ### Zwakke (klankvaste) werkwoorden
 Voor zwakke werkwoorden geldt de "kofschip/exkofschaap"-regel. Kijk naar de laatste letter van de <span class="wijvorm">wij-vorm</span> zonder *-en*:
@@ -112,3 +112,16 @@ Het voltooid deelwoord eindigt op **en**. Schrijf wat je hoort.
 - <span class="ow">De kippen</span> <span class="h ww">worden</span> door het konijn <span class="ww">geslag</span>**en**.
 - <span class="ow">De kippen</span> <span class="h ww">zijn</span> bijna niet <span class="ww">bewog</span>**en**.
 - <span class="ow">De kippen</span> <span class="h ww">zijn</span> <span class="ww">geschrokk</span>**en** van Stampertje.
+
+---
+
+# Voltooid Verleden Tijd (VVT)
+
+Ook hier is het <span class="ww">voltooid deelwoord</span> afgerond. Het <span class="h ww">hulpwerkwoord</span> staat nu in de verleden tijd: <span class="h ww">had</span>, <span class="h ww">hadden</span>, <span class="h ww">was</span> of <span class="h ww">waren</span>. Het voltooid deelwoord schrijf je net zoals bij de VTT.
+
+### Voorbeelden
+
+- <span class="ow">De kip</span> <span class="h ww">had</span> het konijn <span class="ww">gepik</span>**t**.
+- <span class="ow">Stampertje</span> <span class="h ww">was</span> <span class="ww">gehaat</span> door de kippen.
+- <span class="ow">Mama</span> <span class="h ww">had</span> de kip <span class="ww">gebraad</span>.
+- <span class="ow">Wij</span> <span class="h ww">hadden</span> de kippen <span class="ww">gevoer</span>**d**.
